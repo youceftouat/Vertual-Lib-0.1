@@ -11,8 +11,9 @@ Auteur.java : classe pour conserver et traiter les atributs d'un auteur.
 
 Livre.java : classe pour conserver et traiter les attributs d'un livre.
 
-Signature.java : interface ou sont définies toutes les fonctions nécessaires pour le fonctionnement de la plateforme.
+Signature.java : interface ou sont définies toutes les méthodes nécessaires pour le fonctionnement de la plateforme. Des détails serons expliqués dans la version 1.0
 
-Bdd.java : classe principale du projet ou toutes les méthodes sont implémentées.
+Bdd.java : classe du projet ou toutes les méthodes sont implémentées.
 
+main.jav : Le main du projet ou je propose quelques manipulations afin de tester le bon fonctionnement du projet.
 
