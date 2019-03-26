@@ -7,3 +7,8 @@ Auteurs.txt : Un auteur est représenté par son : code, nom et payer d'origine
 
 Livres.txt : Un livre est représenté par son : code, titre, catégorie, code de l'auteur, prix et le nombre de pages 
 
+Auteur.java : classe pour conserver et traiter les atributs d'un auteur.
+
+Livre.java : classe pour conserver et traiter les attributs d'un livre.
+
+
